@@ -4,3 +4,4 @@ _site
 vendor/
 .bundle/
 design/
+Gemfile.lock
