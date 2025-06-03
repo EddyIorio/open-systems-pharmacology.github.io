@@ -8,7 +8,7 @@ First install all required dependencies. See https://jekyllrb.com/ for getting s
 Then run command
 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --baseurl=""
 ```
 
 ## Code of conduct
@@ -18,4 +18,3 @@ Everyone interacting in the Open Systems Pharmacology community (codebases, issu
 We encourage contribution to the Open Systems Pharmacology community. Before getting started please read the [contribution guidelines](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CONTRIBUTING.md). If you are contributing code, please be familiar with the [coding standard](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODING_STANDARDS.md).
 
 
-bundle exec jekyll serve
